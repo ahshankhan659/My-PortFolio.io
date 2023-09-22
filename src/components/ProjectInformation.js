@@ -4,6 +4,8 @@ import lambert from "../assets/images/screenshots/Lambert.png";
 import momentum from "../assets/images/screenshots/Momentum.png";
 import portfolio from "../assets/images/screenshots/Portfolio-work.png";
 import dashboard from "../assets/images/screenshots/Dashboard.png";
+import TechEdu from "../assets/images/screenshots/download.webp";
+import Onrec from "../assets/images/screenshots/onrec.webp";
 
 export const PROJECTINFORMATION = [
     {
@@ -46,22 +48,22 @@ export const PROJECTINFORMATION = [
     siteLink: "https://ahshankhan659.github.io/Responsive-Dashboard-through-Login/",
     codeLink: "https://github.com/ahshankhan659/Responsive-Dashboard-through-Login",
   },
-  // {
-  //   id: 3,
-  //   image: portfolio,
-  //   title: "Portfolio Landing Page",
-  //   description:
-  //     "This is a landing page for Portfolio site made using HTML, CSS and Vanilla JavaScript.",
-  //   siteLink: "https://staticjoblistings.netlify.app/",
-  //   codeLink: "https://github.com/SyedZawwarAhmed/static-job-listings",
-  // },
-  // {
-  //   id: 4,
-  //   image: momentum,
-  //   title: "Momentum ",
-  //   description:
-  //     "This is a landing page website for a bank made using HTML, CSS and a little bit of JavaScript.",
-  //   siteLink: "https://syedzawwarahmed.github.io/easybank-landing-page/",
-  //   codeLink: "https://github.com/SyedZawwarAhmed/easybank-landing-page",
-  // }, 
+  {
+    id: 4,
+    image: TechEdu,
+    title: "Tech-Educa",
+    description:
+      "Enhance Your Future With TechEduca.",
+    siteLink: "https://ahshankhan659.github.io/Tech-Edu.io/",
+    codeLink: "https://github.com/ahshankhan659/Tech-Edu.io.git",
+  },
+  {
+    id: 5,
+    image: Onrec,
+    title: "Onrec ",
+    description:
+      "publish daily news to keep you updated with the recruitment news.",
+    siteLink: "https://ahshankhan659.github.io/Onrec.io/",
+    codeLink: "https://github.com/ahshankhan659/Onrec.io.git",
+  }, 
 ];
