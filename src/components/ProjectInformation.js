@@ -6,6 +6,7 @@ import portfolio from "../assets/images/screenshots/Portfolio-work.png";
 import dashboard from "../assets/images/screenshots/Dashboard.png";
 import TechEdu from "../assets/images/screenshots/download.webp";
 import Onrec from "../assets/images/screenshots/onrec.webp";
+import bantu from "../assets/images/screenshots/bantu.webp";
 
 export const PROJECTINFORMATION = [
     {
@@ -32,15 +33,24 @@ export const PROJECTINFORMATION = [
   },
   {
     id: 2,
-    image: lambert,
-    title: "Lambert Restaurent",
+    image: Onrec,
+    title: "Onrec ",
     description:
-      "This application displays information about all the restaurent by integrating with a REST API.",
-    siteLink: "https://ahshankhan659.github.io/Lambart.io/",
-    codeLink: "https://github.com/ahshankhan659/Lambart.io",
+      "publish daily news to keep you updated with the recruitment news.",
+    siteLink: "https://ahshankhan659.github.io/Onrec.io/",
+    codeLink: "https://github.com/ahshankhan659/Onrec.io.git",
   },
   {
     id: 3,
+    image: bantu,
+    title: "The Bantu Sun ",
+    description:
+      "Fully Responsive Website.",
+    siteLink: "https://ahshankhan659.github.io/BantuSun.io/",
+    codeLink: "https://github.com/ahshankhan659/BantuSun.io.git",
+  },
+  {
+    id: 4,
     image: dashboard,
     title: "Login System",
     description:
@@ -49,7 +59,7 @@ export const PROJECTINFORMATION = [
     codeLink: "https://github.com/ahshankhan659/Responsive-Dashboard-through-Login",
   },
   {
-    id: 4,
+    id: 5,
     image: TechEdu,
     title: "Tech-Educa",
     description:
@@ -58,12 +68,12 @@ export const PROJECTINFORMATION = [
     codeLink: "https://github.com/ahshankhan659/Tech-Edu.io.git",
   },
   {
-    id: 5,
-    image: Onrec,
-    title: "Onrec ",
+    id: 6,
+    image: lambert,
+    title: "Lambert Restaurent",
     description:
-      "publish daily news to keep you updated with the recruitment news.",
-    siteLink: "https://ahshankhan659.github.io/Onrec.io/",
-    codeLink: "https://github.com/ahshankhan659/Onrec.io.git",
+      "This application displays information about all the restaurent by integrating with a REST API.",
+    siteLink: "https://ahshankhan659.github.io/Lambart.io/",
+    codeLink: "https://github.com/ahshankhan659/Lambart.io",
   }, 
 ];
