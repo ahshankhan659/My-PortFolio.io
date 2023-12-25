@@ -1,6 +1,6 @@
 import React from "react";
 import "../stylesheets/Home.css"; 
-import Resume from '../assets/images/screenshots/resume.pdf'
+import Resume from '../assets/images/screenshots/Ahshan-Khan-Resume.pdf'
   // Update the import path
 
 function Home() {
